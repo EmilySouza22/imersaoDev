@@ -1,5 +1,5 @@
 # imersaoDev
 
-Este projeto foi feito para [...]
+Este projeto é desenvolvido com base na ImersaoDev da Alura
 
-Foi usado [...], [...] e [...]
+Foi usado HTML, CSS e JS.
